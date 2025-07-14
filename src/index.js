@@ -319,6 +319,82 @@ app.get('/api/stats', async (req, res) => {
   }
 });
 
+// Cities endpoint - Şehirler listesi
+app.get('/api/cities', async (req, res) => {
+  try {
+    console.log('🏙️ Şehirler listesi talep edildi');
+    
+    const result = await pool.query(`
+      SELECT sehir_id as id, sehir_adi as name, sehir_kodu as code
+      FROM sehirler 
+      ORDER BY sehir_adi ASC
+    `);
+    
+    res.json({ 
+      success: true,
+      cities: result.rows,
+      count: result.rows.length
+    });
+  } catch (error) {
+    console.error('❌ Şehirler API Hatası:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// Districts endpoint - İlçeler listesi
+app.get('/api/districts/:cityId', async (req, res) => {
+  try {
+    const { cityId } = req.params;
+    console.log(`🏘️ İlçeler listesi talep edildi - Şehir ID: ${cityId}`);
+    
+    const result = await pool.query(`
+      SELECT i.ilce_id as id, i.ilce_adi as name, i.sehir_id as city_id, s.sehir_adi as city_name
+      FROM ilceler i
+      JOIN sehirler s ON i.sehir_id = s.sehir_id
+      WHERE i.sehir_id = $1
+      ORDER BY i.ilce_adi ASC
+    `, [cityId]);
+    
+    res.json({ 
+      success: true,
+      districts: result.rows,
+      count: result.rows.length,
+      cityId: cityId
+    });
+  } catch (error) {
+    console.error('❌ İlçeler API Hatası:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// Neighborhoods endpoint - Mahalleler listesi
+app.get('/api/neighborhoods/:districtId', async (req, res) => {
+  try {
+    const { districtId } = req.params;
+    console.log(`🏠 Mahalleler listesi talep edildi - İlçe ID: ${districtId}`);
+    
+    const result = await pool.query(`
+      SELECT m.mahalle_id as id, m.mahalle_adi as name, m.ilce_id as district_id, 
+             i.ilce_adi as district_name, s.sehir_adi as city_name
+      FROM mahalleler m
+      JOIN ilceler i ON m.ilce_id = i.ilce_id
+      JOIN sehirler s ON i.sehir_id = s.sehir_id
+      WHERE m.ilce_id = $1
+      ORDER BY m.mahalle_adi ASC
+    `, [districtId]);
+    
+    res.json({ 
+      success: true,
+      neighborhoods: result.rows,
+      count: result.rows.length,
+      districtId: districtId
+    });
+  } catch (error) {
+    console.error('❌ Mahalleler API Hatası:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 // 404 handler
 app.use('*', (req, res) => {
   res.status(404).json({ error: 'Endpoint not found' });
