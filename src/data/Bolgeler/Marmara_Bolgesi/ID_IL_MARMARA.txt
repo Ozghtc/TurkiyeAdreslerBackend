@@ -1,0 +1,11 @@
+34000000 | İstanbul | Marmara | aktif
+16000000 | Bursa | Marmara | aktif
+10000000 | Balıkesir | Marmara | aktif
+17000000 | Çanakkale | Marmara | aktif
+22000000 | Edirne | Marmara | aktif
+39000000 | Kırklareli | Marmara | aktif
+59000000 | Tekirdağ | Marmara | aktif
+77000000 | Yalova | Marmara | aktif
+54000000 | Sakarya | Marmara | aktif
+41000000 | Kocaeli | Marmara | aktif
+11000000 | Bilecik | Marmara | aktif 

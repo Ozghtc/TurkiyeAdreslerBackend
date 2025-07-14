@@ -1,0 +1,100 @@
+{
+  "bolge": "Marmara",
+  "iller": [
+      {
+    "id": 34000001,
+    "name": "İstanbul",
+    "parent": "Marmara", 
+    "status": "aktif",
+    "plaka": 34,
+    "level": "00"
+  },
+      {
+    "id": 16000001,
+    "name": "Bursa",
+    "parent": "Marmara", 
+    "status": "aktif",
+    "plaka": 16,
+    "level": "00"
+  },
+  {
+    "id": 10000001,
+    "name": "Balıkesir",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 10,
+    "level": "00"
+  },
+  {
+    "id": 17000001,
+    "name": "Çanakkale",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 17,
+    "level": "00"
+  },
+  {
+    "id": 22000001,
+    "name": "Edirne",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 22,
+    "level": "00"
+  },
+  {
+    "id": 39000001,
+    "name": "Kırklareli",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 39,
+    "level": "00"
+  },
+  {
+    "id": 59000001,
+    "name": "Tekirdağ",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 59,
+    "level": "00"
+  },
+  {
+    "id": 77000001,
+    "name": "Yalova",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 77,
+    "level": "00"
+  },
+  {
+    "id": 54000001,
+    "name": "Sakarya",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 54,
+    "level": "00"
+  },
+  {
+    "id": 41000001,
+    "name": "Kocaeli",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 41,
+    "level": "00"
+  },
+  {
+    "id": 11000001,
+    "name": "Bilecik",
+    "parent": "Marmara",
+    "status": "aktif",
+    "plaka": 11,
+    "level": "00"
+  }
+  ],
+  "metadata": {
+    "total_count": 11,
+    "last_id": 100011,
+    "next_id": 100012,
+    "created_date": "2025-07-11",
+    "version": "1.0"
+  }
+} 

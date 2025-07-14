@@ -1,0 +1,115 @@
+{
+  "il": "İstanbul",
+  "il_id": 34000001,
+  "plaka": 34,
+  "level": "00",
+  "toplam_ilce_sayisi": 39,
+  "yakasal_dagilim": {
+    "avrupa_yakasi": {
+      "ilce_sayisi": 25,
+      "baslangic_id": 34010001,
+      "bitis_id": 34010025,
+      "klasor": "Istanbul_Avrupa"
+    },
+    "anadolu_yakasi": {
+      "ilce_sayisi": 14,
+      "baslangic_id": 34010026,
+      "bitis_id": 34010039,
+      "klasor": "Istanbul_Anadolu"
+    }
+  },
+  "id_kullanim_bilgisi": {
+    "il_id": 34000001,
+    "ilce_id_araligi": "34010001 - 34010039",
+    "toplam_kullanilan_id": 40,
+    "sonraki_bos_id": 34020001,
+    "next_level": "02 (Mahalle)"
+  },
+  "plaka_sistemi": {
+    "plaka_no": 34,
+    "il_kodu": "34000001",
+    "ilce_kod_araligi": "34010001-34010039",
+    "mahalle_kod_baslangic": "34020001",
+    "cadde_kod_baslangic": "34030001",
+    "sokak_kod_baslangic": "34040001"
+  },
+  "populer_ilceler": {
+    "avrupa_yakasi": [
+      {
+        "name": "Fatih",
+        "id": 34010016
+      },
+      {
+        "name": "Beyoğlu",
+        "id": 34010010
+      },
+      {
+        "name": "Şişli",
+        "id": 34010023
+      },
+      {
+        "name": "Beşiktaş",
+        "id": 34010008
+      },
+      {
+        "name": "Bakırköy",
+        "id": 34010005
+      },
+      {
+        "name": "Bahçelievler",
+        "id": 34010004
+      }
+    ],
+    "anadolu_yakasi": [
+      {
+        "name": "Kadıköy",
+        "id": 34010030
+      },
+      {
+        "name": "Üsküdar",
+        "id": 34010039
+      },
+      {
+        "name": "Ataşehir",
+        "id": 34010027
+      },
+      {
+        "name": "Kartal",
+        "id": 34010031
+      },
+      {
+        "name": "Maltepe",
+        "id": 34010032
+      },
+      {
+        "name": "Beykoz",
+        "id": 34010028
+      }
+    ]
+  },
+  "metadata": {
+    "created_date": "2025-07-11",
+    "updated_date": "2025-07-12",
+    "version": "2.1",
+    "notes": "İstanbul ili plaka bazlı ID sistemi (34) ile güncellendi. Avrupa ve Anadolu yakaları ayrı modüllerde organize edilmiştir.",
+    "osm_integration": {
+      "enabled": true,
+      "date": "2025-07-12",
+      "koordinatlar": "OSM Overpass API den alindi",
+      "filtrelenen_ilce": 39,
+      "avrupa_yakasi": 25,
+      "anadolu_yakasi": 14,
+      "notes": "Tum ilceler OSM koordinatlari ile guncellendi"
+    }
+  },
+  "il_coordinates": {
+    "lat": 41.204336749999996,
+    "lon": 28.96482645
+  },
+  "il_bounds": {
+    "north": 41.671,
+    "south": 40.7376735,
+    "east": 29.9588048,
+    "west": 27.9708481
+  }
+}

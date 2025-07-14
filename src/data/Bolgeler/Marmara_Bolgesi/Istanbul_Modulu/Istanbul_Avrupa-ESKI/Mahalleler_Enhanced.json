@@ -1,0 +1,4212 @@
+{
+  "il": "İstanbul",
+  "bolge": "Avrupa",
+  "plaka": 34,
+  "yarim_il": 2,
+  "level": "02",
+  "mahalle_listesi": [
+    {
+      "id": 3422000001,
+      "name": "SINANPAŞA",
+      "parent_id": 342100008,
+      "parent_name": "Beşiktaş",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34357",
+      "coordinates": {
+        "lat": 41.0428133,
+        "lon": 29.0048711
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251358473,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sinanpaşa",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sinanpasa"
+      }
+    },
+    {
+      "id": 3422000002,
+      "name": "SUNGURLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0790914,
+        "lon": 29.867177
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251426583,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sungurlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sungurlu"
+      }
+    },
+    {
+      "id": 3422000003,
+      "name": "KEMALLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1003533,
+        "lon": 29.7668223
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251426584,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kemalli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kemalli"
+      }
+    },
+    {
+      "id": 3422000004,
+      "name": "EVRENLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1017162,
+        "lon": 29.7621117
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251426593,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Evrenli",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "ايفرنلي",
+        "en": "Evrenli"
+      }
+    },
+    {
+      "id": 3422000005,
+      "name": "KAYALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8668574,
+        "lon": 29.8604781
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251430609,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kayalar",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "كايالر",
+        "en": "Kayalar"
+      }
+    },
+    {
+      "id": 3422000006,
+      "name": "ERIKLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.812558,
+        "lon": 29.7764239
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251430613,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Erikli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Erikli"
+      }
+    },
+    {
+      "id": 3422000007,
+      "name": "MANŞAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1152426,
+        "lon": 29.7411929
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 251434266,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Manşar",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "مانشار",
+        "en": "Mansar"
+      }
+    },
+    {
+      "id": 3422000008,
+      "name": "MURADIYE",
+      "parent_id": 342100008,
+      "parent_name": "Beşiktaş",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34357",
+      "coordinates": {
+        "lat": 41.0480949,
+        "lon": 28.9989975
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 568010763,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Muradiye",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "موراديّة",
+        "en": "Muradiye"
+      }
+    },
+    {
+      "id": 3422000009,
+      "name": "DIKILITAŞ",
+      "parent_id": 342100008,
+      "parent_name": "Beşiktaş",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34357",
+      "coordinates": {
+        "lat": 41.0554313,
+        "lon": 29.0048495
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 568011372,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Dikilitaş",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "ديكيليتاش",
+        "en": "Dikilitas"
+      }
+    },
+    {
+      "id": 3422000010,
+      "name": "ULUS",
+      "parent_id": 342100008,
+      "parent_name": "Beşiktaş",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34357",
+      "coordinates": {
+        "lat": 41.0646636,
+        "lon": 29.0270709
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 568082902,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Ulus",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "أولوس",
+        "en": "Ulus"
+      }
+    },
+    {
+      "id": 3422000011,
+      "name": "DEMIRCILER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8558417,
+        "lon": 29.7681532
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1867696671,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Demirciler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Demirciler"
+      }
+    },
+    {
+      "id": 3422000012,
+      "name": "KADIKÖYÜ",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8623058,
+        "lon": 29.8115511
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1867696672,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kadıköyü",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kadikoyu"
+      }
+    },
+    {
+      "id": 3422000013,
+      "name": "ALACALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.927693,
+        "lon": 29.8535303
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947162042,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Alacalar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Alacalar"
+      }
+    },
+    {
+      "id": 3422000014,
+      "name": "KEKLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9300566,
+        "lon": 29.8715017
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947162166,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kekler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kekler"
+      }
+    },
+    {
+      "id": 3422000015,
+      "name": "OTMANLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8981683,
+        "lon": 29.8725978
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947162197,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Otmanlı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Otmanli"
+      }
+    },
+    {
+      "id": 3422000016,
+      "name": "PAMUKLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8971084,
+        "lon": 29.8919911
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947162198,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Pamuklar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Pamuklar"
+      }
+    },
+    {
+      "id": 3422000017,
+      "name": "UMURLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9102783,
+        "lon": 29.8736916
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947162258,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Umurlar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Umurlar"
+      }
+    },
+    {
+      "id": 3422000018,
+      "name": "KOÇOĞLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9130103,
+        "lon": 29.8656271
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947162272,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Koçoğlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kocoglu"
+      }
+    },
+    {
+      "id": 3422000019,
+      "name": "SOĞULLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1410058,
+        "lon": 29.7921405
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 1947404316,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Soğullar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sogullar"
+      }
+    },
+    {
+      "id": 3422000020,
+      "name": "KALEALTI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1206752,
+        "lon": 29.5074994
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2088619067,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kalealtı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kalealti"
+      }
+    },
+    {
+      "id": 3422000021,
+      "name": "BÜYÜK AŞAĞI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1185582,
+        "lon": 29.8735932
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2453744069,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Büyük Aşağı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Buyuk Asagi"
+      }
+    },
+    {
+      "id": 3422000022,
+      "name": "ORTA",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0206052,
+        "lon": 29.894504
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2453744081,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Orta",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Orta"
+      }
+    },
+    {
+      "id": 3422000023,
+      "name": "YUKARI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.024511,
+        "lon": 29.8914065
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2453744098,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yukarı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yukari"
+      }
+    },
+    {
+      "id": 3422000024,
+      "name": "DIKBUCAKLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1268171,
+        "lon": 29.8682922
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2453744101,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Dikbucaklı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Dikbucakli"
+      }
+    },
+    {
+      "id": 3422000025,
+      "name": "GERME",
+      "parent_id": 342100021,
+      "parent_name": "Sarıyer",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34450",
+      "coordinates": {
+        "lat": 41.2736822,
+        "lon": 28.6617513
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2478376804,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Germe",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Germe"
+      }
+    },
+    {
+      "id": 3422000026,
+      "name": "TURAŞ",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.97297,
+        "lon": 29.8627984
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496002561,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Turaş",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Turas"
+      }
+    },
+    {
+      "id": 3422000027,
+      "name": "ÇAL",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9571573,
+        "lon": 29.8558272
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496004151,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Çal",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Cal"
+      }
+    },
+    {
+      "id": 3422000028,
+      "name": "ADIÖREN",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8197632,
+        "lon": 29.7219676
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254937,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Adıören",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Adioren"
+      }
+    },
+    {
+      "id": 3422000029,
+      "name": "ALIKAHYALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9054263,
+        "lon": 29.8463989
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254939,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Alikahyalar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Alikahyalar"
+      }
+    },
+    {
+      "id": 3422000030,
+      "name": "AŞAĞI SOFULAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9217765,
+        "lon": 29.8883688
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254940,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Aşağı Sofular",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Asagi Sofular"
+      }
+    },
+    {
+      "id": 3422000031,
+      "name": "BEKTAŞLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8332213,
+        "lon": 29.7056272
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254943,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Bektaşlı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Bektasli"
+      }
+    },
+    {
+      "id": 3422000032,
+      "name": "BIÇAKÇILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9652905,
+        "lon": 29.823273
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254944,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Bıçakçılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Bicakcilar"
+      }
+    },
+    {
+      "id": 3422000033,
+      "name": "DELIMAHMUTLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8782577,
+        "lon": 29.813407
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254945,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Delimahmutlar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Delimahmutlar"
+      }
+    },
+    {
+      "id": 3422000034,
+      "name": "DEMIRCILER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9559771,
+        "lon": 29.8327039
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254946,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Demirciler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Demirciler"
+      }
+    },
+    {
+      "id": 3422000035,
+      "name": "EĞNEDIKLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8428014,
+        "lon": 29.7890053
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254948,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Eğnedikli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Egnedikli"
+      }
+    },
+    {
+      "id": 3422000036,
+      "name": "FAKILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.875585,
+        "lon": 29.8642776
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254949,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Fakılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Fakilar"
+      }
+    },
+    {
+      "id": 3422000037,
+      "name": "HACIIBRAHIMLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.883981,
+        "lon": 29.8568314
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254951,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hacıibrahimler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Haciibrahimler"
+      }
+    },
+    {
+      "id": 3422000038,
+      "name": "HATIBLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9435633,
+        "lon": 29.8437426
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254953,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hatibler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hatibler"
+      }
+    },
+    {
+      "id": 3422000039,
+      "name": "HAYRETTINLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.927614,
+        "lon": 29.817091
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254954,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hayrettinli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hayrettinli"
+      }
+    },
+    {
+      "id": 3422000040,
+      "name": "HOCAKÖY",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9385487,
+        "lon": 29.8900169
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254955,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hocaköy",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hocakoy"
+      }
+    },
+    {
+      "id": 3422000041,
+      "name": "KARAKADILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9059627,
+        "lon": 29.8419469
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254956,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Karakadılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Karakadilar"
+      }
+    },
+    {
+      "id": 3422000042,
+      "name": "KARAKAŞLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9545858,
+        "lon": 29.8076427
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254957,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Karakaşlı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Karakasli"
+      }
+    },
+    {
+      "id": 3422000043,
+      "name": "HOCAOĞLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8711304,
+        "lon": 29.8761368
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254958,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hocaoğlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hocaoglu"
+      }
+    },
+    {
+      "id": 3422000044,
+      "name": "KORUCU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8566202,
+        "lon": 29.8232337
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254959,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Korucu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Korucu"
+      }
+    },
+    {
+      "id": 3422000045,
+      "name": "KUŞLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9243072,
+        "lon": 29.8183178
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254960,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kuşlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kuslu"
+      }
+    },
+    {
+      "id": 3422000046,
+      "name": "MUHARREMLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9033517,
+        "lon": 29.8562522
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254961,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Muharremli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Muharremli"
+      }
+    },
+    {
+      "id": 3422000047,
+      "name": "MURATLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.871676,
+        "lon": 29.8297054
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254962,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Muratlar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Muratlar"
+      }
+    },
+    {
+      "id": 3422000048,
+      "name": "MURATLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9407197,
+        "lon": 29.8368281
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254963,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Muratlar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Muratlar"
+      }
+    },
+    {
+      "id": 3422000049,
+      "name": "ORUÇHOCALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8747867,
+        "lon": 29.8326139
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254967,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Oruçhocalar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Oruchocalar"
+      }
+    },
+    {
+      "id": 3422000050,
+      "name": "SARIHALILLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8776007,
+        "lon": 29.852989
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254969,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sarıhaliller",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sarihaliller"
+      }
+    },
+    {
+      "id": 3422000051,
+      "name": "SÜVER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9542027,
+        "lon": 29.8243926
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254970,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Süver",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Suver"
+      }
+    },
+    {
+      "id": 3422000052,
+      "name": "TURGUTLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9368793,
+        "lon": 29.8999474
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254971,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Turgutlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Turgutlu"
+      }
+    },
+    {
+      "id": 3422000053,
+      "name": "YAĞCILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9434567,
+        "lon": 29.8579111
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254973,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yağcılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yagcilar"
+      }
+    },
+    {
+      "id": 3422000054,
+      "name": "YUKARI SOFULAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.921737,
+        "lon": 29.8850835
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496254974,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yukarı Sofular",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yukari Sofular"
+      }
+    },
+    {
+      "id": 3422000055,
+      "name": "ÇALKÖY",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9533161,
+        "lon": 29.8038556
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496255785,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Çalköy",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Calkoy"
+      }
+    },
+    {
+      "id": 3422000056,
+      "name": "ÇANCILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.940354,
+        "lon": 29.8458033
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496255786,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Çancılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Cancilar"
+      }
+    },
+    {
+      "id": 3422000057,
+      "name": "ÇARMUKLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8741808,
+        "lon": 29.8821954
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496255787,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Çarmuklar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Carmuklar"
+      }
+    },
+    {
+      "id": 3422000058,
+      "name": "ÖREN",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8387519,
+        "lon": 29.8504269
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496255788,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Ören",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Oren"
+      }
+    },
+    {
+      "id": 3422000059,
+      "name": "İSHAKÇILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9055145,
+        "lon": 29.8511831
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496255789,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "İshakçılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Ishakcilar"
+      }
+    },
+    {
+      "id": 3422000060,
+      "name": "AKÇALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9021776,
+        "lon": 29.8249105
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266150,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Akçalar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Akcalar"
+      }
+    },
+    {
+      "id": 3422000061,
+      "name": "ASLANLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8900551,
+        "lon": 29.8442916
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266152,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Aslanlı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Aslanli"
+      }
+    },
+    {
+      "id": 3422000062,
+      "name": "DURANLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9201403,
+        "lon": 29.7717203
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266155,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Duranlı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Duranli"
+      }
+    },
+    {
+      "id": 3422000063,
+      "name": "DURBEYLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9188961,
+        "lon": 29.7826126
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266156,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Durbeyler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Durbeyler"
+      }
+    },
+    {
+      "id": 3422000064,
+      "name": "EMIRŞALLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9033885,
+        "lon": 29.8013285
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266159,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Emirşallı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Emirsalli"
+      }
+    },
+    {
+      "id": 3422000065,
+      "name": "KOZLUCA",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9585308,
+        "lon": 29.7821988
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266169,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kozluca",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kozluca"
+      }
+    },
+    {
+      "id": 3422000066,
+      "name": "KIDIŞILLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9217252,
+        "lon": 29.7999986
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266172,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kıdışıllı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kidisilli"
+      }
+    },
+    {
+      "id": 3422000067,
+      "name": "MARTILAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8915985,
+        "lon": 29.7964951
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266175,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Martılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Martilar"
+      }
+    },
+    {
+      "id": 3422000068,
+      "name": "NALBANTLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8875641,
+        "lon": 29.8283015
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266176,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Nalbantlar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Nalbantlar"
+      }
+    },
+    {
+      "id": 3422000069,
+      "name": "ORUÇLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9343215,
+        "lon": 29.8009826
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266177,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Oruçlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Oruclu"
+      }
+    },
+    {
+      "id": 3422000070,
+      "name": "ÖNEZLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9272506,
+        "lon": 29.7396796
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266320,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Önezli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Onezli"
+      }
+    },
+    {
+      "id": 3422000071,
+      "name": "ÜRKÜTLÜ",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9399567,
+        "lon": 29.7962084
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2496266321,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Ürkütlü",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Urkutlu"
+      }
+    },
+    {
+      "id": 3422000072,
+      "name": "DEMIRCILI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0363895,
+        "lon": 29.6507708
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244023,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Demircili",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Demircili"
+      }
+    },
+    {
+      "id": 3422000073,
+      "name": "ELEŞLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9520032,
+        "lon": 29.7044633
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244024,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Eleşli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Elesli"
+      }
+    },
+    {
+      "id": 3422000074,
+      "name": "EZILI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9960949,
+        "lon": 29.6458823
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244025,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Ezili",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Ezili"
+      }
+    },
+    {
+      "id": 3422000075,
+      "name": "KUMCA",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9807452,
+        "lon": 29.6775617
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244026,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kumca",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kumca"
+      }
+    },
+    {
+      "id": 3422000076,
+      "name": "MELEMEZLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9867191,
+        "lon": 29.7105206
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244027,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Melemezli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Melemezli"
+      }
+    },
+    {
+      "id": 3422000077,
+      "name": "ORHANLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.940435,
+        "lon": 29.665946
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244028,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Orhanlı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Orhanli"
+      }
+    },
+    {
+      "id": 3422000078,
+      "name": "SARIKAVAK",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0259186,
+        "lon": 29.6490797
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604244029,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sarıkavak",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sarikavak"
+      }
+    },
+    {
+      "id": 3422000079,
+      "name": "ÖRCÜNLÜ",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9851535,
+        "lon": 29.6560375
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2604246211,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Örcünlü",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Orcunlu"
+      }
+    },
+    {
+      "id": 3422000080,
+      "name": "DEĞIRMENDERE",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1795504,
+        "lon": 29.23155
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 2623170034,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Değirmendere",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Degirmendere"
+      }
+    },
+    {
+      "id": 3422000081,
+      "name": "YEDIYER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9502238,
+        "lon": 29.4695329
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3095112243,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yediyer",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yediyer"
+      }
+    },
+    {
+      "id": 3422000082,
+      "name": "DAVUTLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1024068,
+        "lon": 29.7906495
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145061,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Davutlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Davutlu"
+      }
+    },
+    {
+      "id": 3422000083,
+      "name": "DENIZLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.091764,
+        "lon": 29.789462
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145062,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Denizli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Denizli"
+      }
+    },
+    {
+      "id": 3422000084,
+      "name": "EMBEYLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0803299,
+        "lon": 29.8005246
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145063,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Embeyli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Embeyli"
+      }
+    },
+    {
+      "id": 3422000085,
+      "name": "KOLTU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1053783,
+        "lon": 29.8336466
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145065,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Koltu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Koltu"
+      }
+    },
+    {
+      "id": 3422000086,
+      "name": "GÖÇE YENIKÖY",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1163213,
+        "lon": 29.8492524
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145066,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Göçe Yeniköy",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Goce Yenikoy"
+      }
+    },
+    {
+      "id": 3422000087,
+      "name": "SIĞILLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0862244,
+        "lon": 29.7826824
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145067,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sığıllı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sigilli"
+      }
+    },
+    {
+      "id": 3422000088,
+      "name": "UBEYLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1001565,
+        "lon": 29.7828285
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249145068,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Ubeyli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Ubeyli"
+      }
+    },
+    {
+      "id": 3422000089,
+      "name": "İHSANOĞLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0905077,
+        "lon": 29.8087881
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 3249146476,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "İhsanoğlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Ihsanoglu"
+      }
+    },
+    {
+      "id": 3422000090,
+      "name": "BOLLUCA",
+      "parent_id": 342100021,
+      "parent_name": "Sarıyer",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34450",
+      "coordinates": {
+        "lat": 41.2222213,
+        "lon": 28.7785056
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4996379166,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Bolluca",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "بولوجا",
+        "en": "Bolluca"
+      }
+    },
+    {
+      "id": 3422000091,
+      "name": "ÇIFTLIKKÖY",
+      "parent_id": 342100021,
+      "parent_name": "Sarıyer",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34450",
+      "coordinates": {
+        "lat": 41.3514452,
+        "lon": 28.4285247
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4996812395,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Çiftlikköy",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "تشيفتلككوي",
+        "en": "Ciftlikkoy"
+      }
+    },
+    {
+      "id": 3422000092,
+      "name": "HÜRRIYET",
+      "parent_id": 342100023,
+      "parent_name": "Şişli",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34371",
+      "coordinates": {
+        "lat": 41.0736915,
+        "lon": 28.9852962
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997065750,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hürriyet",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "حرييت",
+        "en": "Hurriyet"
+      }
+    },
+    {
+      "id": 3422000093,
+      "name": "YUNUS",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8908425,
+        "lon": 29.212871
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997099579,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yunus",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "يونس",
+        "en": "Yunus"
+      }
+    },
+    {
+      "id": 3422000094,
+      "name": "MERKEZ",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1717313,
+        "lon": 29.0518358
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997234523,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Merkez",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "ميركيز",
+        "en": "Merkez"
+      }
+    },
+    {
+      "id": 3422000095,
+      "name": "KUŞTEPE",
+      "parent_id": 342100008,
+      "parent_name": "Beşiktaş",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34357",
+      "coordinates": {
+        "lat": 41.0719821,
+        "lon": 28.9909667
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997279655,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kuştepe",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "كوشتيبي",
+        "en": "Kustepe"
+      }
+    },
+    {
+      "id": 3422000096,
+      "name": "PAŞA",
+      "parent_id": 342100023,
+      "parent_name": "Şişli",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34371",
+      "coordinates": {
+        "lat": 41.0540318,
+        "lon": 28.9729118
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997279658,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Paşa",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "باشا",
+        "en": "Pasa"
+      }
+    },
+    {
+      "id": 3422000097,
+      "name": "CUMHURIYET",
+      "parent_id": 342100023,
+      "parent_name": "Şişli",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34371",
+      "coordinates": {
+        "lat": 41.0556861,
+        "lon": 28.9818925
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997279662,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Cumhuriyet",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "جمهورييت",
+        "en": "Cumhuriyet"
+      }
+    },
+    {
+      "id": 3422000098,
+      "name": "MECIDIYEKÖY",
+      "parent_id": 342100008,
+      "parent_name": "Beşiktaş",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34357",
+      "coordinates": {
+        "lat": 41.0700421,
+        "lon": 28.9962529
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 4997279667,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Mecidiyeköy",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "مجدييكوي",
+        "en": "Mecidiyekoy"
+      }
+    },
+    {
+      "id": 3422000099,
+      "name": "EDEYLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0859176,
+        "lon": 29.8251702
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 6412396412,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Edeyli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Edeyli"
+      }
+    },
+    {
+      "id": 3422000100,
+      "name": "HALLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0588117,
+        "lon": 29.652368
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 6477523664,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hallı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Halli"
+      }
+    },
+    {
+      "id": 3422000101,
+      "name": "BALLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8014518,
+        "lon": 29.7635778
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 8332131126,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Ballı",
+        "available_languages": [
+          "tr",
+          "ar",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "ar": "بالى كويو",
+        "en": "Balli"
+      }
+    },
+    {
+      "id": 3422000102,
+      "name": "PAYALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8895799,
+        "lon": 29.8566938
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 8332217947,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Payalar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Payalar"
+      }
+    },
+    {
+      "id": 3422000103,
+      "name": "NEZIRLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8868485,
+        "lon": 29.8565499
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 8332217948,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Nezirler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Nezirler"
+      }
+    },
+    {
+      "id": 3422000104,
+      "name": "KÖSELER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.8921557,
+        "lon": 29.8424438
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 8332217949,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Köseler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Koseler"
+      }
+    },
+    {
+      "id": 3422000105,
+      "name": "MURATBEY MERKEZ",
+      "parent_id": 342100011,
+      "parent_name": "Büyükçekmece",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0957829,
+        "lon": 28.493608
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 9471914527,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Muratbey Merkez",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Muratbey Merkez"
+      }
+    },
+    {
+      "id": 3422000106,
+      "name": "YENI MAHALLE",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1867511,
+        "lon": 29.1648767
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 9800257284,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yeni Mahalle",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yeni Mahalle"
+      }
+    },
+    {
+      "id": 3422000107,
+      "name": "SUCALAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 40.9299207,
+        "lon": 29.855926
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10178289710,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sucalar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sucalar"
+      }
+    },
+    {
+      "id": 3422000108,
+      "name": "YAKUPLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1317447,
+        "lon": 29.8414421
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969735,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yakuplu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yakuplu"
+      }
+    },
+    {
+      "id": 3422000109,
+      "name": "KILIÇLAR",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1097366,
+        "lon": 29.8439097
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969736,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Kılıçlar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Kiliclar"
+      }
+    },
+    {
+      "id": 3422000110,
+      "name": "HAMITLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.1368759,
+        "lon": 29.7998679
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969737,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hamitli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hamitli"
+      }
+    },
+    {
+      "id": 3422000111,
+      "name": "SINEKLI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0766015,
+        "lon": 29.6707247
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969738,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Sinekli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Sinekli"
+      }
+    },
+    {
+      "id": 3422000112,
+      "name": "HACIMUSTAFA",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0948286,
+        "lon": 29.8411846
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969739,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hacımustafa",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hacimustafa"
+      }
+    },
+    {
+      "id": 3422000113,
+      "name": "HALILOĞLU",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0888289,
+        "lon": 29.8543381
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969740,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Haliloğlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Haliloglu"
+      }
+    },
+    {
+      "id": 3422000114,
+      "name": "YUMUŞAK",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.077119,
+        "lon": 29.8805165
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969741,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Yumuşak",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Yumusak"
+      }
+    },
+    {
+      "id": 3422000115,
+      "name": "HACI",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0860472,
+        "lon": 29.8775124
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969742,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hacı",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Haci"
+      }
+    },
+    {
+      "id": 3422000116,
+      "name": "KERAMETTIN",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0924191,
+        "lon": 29.8806453
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969743,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Keramettin",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Keramettin"
+      }
+    },
+    {
+      "id": 3422000117,
+      "name": "HATIPLER",
+      "parent_id": 341100005,
+      "parent_name": "Kadıköy",
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "yarim_il": 1,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 41.0940039,
+        "lon": 29.8717403
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 10183969744,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Hatipler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Hatipler"
+      }
+    },
+    {
+      "id": 3422000118,
+      "name": "ÜNIVERSITE MAHALLESI",
+      "parent_id": 342100011,
+      "parent_name": "Büyükçekmece",
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "yarim_il": 2,
+      "level": "02",
+      "posta_kodu": "34000",
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "osmId": 9454013,
+      "updated_with_osm": true,
+      "created_date": "2025-07-13",
+      "multilingual": {
+        "tr": "Üniversite Mahallesi",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": true,
+        "manual_verified": false,
+        "en": "Universite Mahallesi"
+      }
+    }
+  ],
+  "metadata": {
+    "total_count": 118,
+    "first_id": 3422000001,
+    "last_id": 3422000118,
+    "next_id": 3422000119,
+    "parent_il_id": 34000000,
+    "parent_il_name": "İstanbul",
+    "bolge": "Avrupa Yakası",
+    "yarim_il": 2,
+    "plaka": 34,
+    "level": "02",
+    "created_date": "2025-07-13",
+    "version": "4.0",
+    "coding_system": "Yeni hiyerarşik sistem - mahalle seviyesi",
+    "osm_integration": "OSM neighbourhood data entegrasyonu",
+    "data_source": "OpenStreetMap turkey-latest.osm.pbf"
+  },
+  "meta": {
+    "version": "4.0",
+    "last_updated": "2025-07-13",
+    "language_support": {
+      "enabled": true,
+      "default_language": "tr",
+      "supported_languages": [
+        "tr",
+        "en",
+        "ar",
+        "ku",
+        "hy",
+        "el"
+      ],
+      "language_priority": [
+        "tr",
+        "en",
+        "ar",
+        "ku",
+        "hy",
+        "el"
+      ]
+    }
+  }
+}

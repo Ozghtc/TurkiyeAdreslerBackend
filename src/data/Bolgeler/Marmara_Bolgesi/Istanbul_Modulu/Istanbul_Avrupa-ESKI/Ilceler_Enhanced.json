@@ -1,0 +1,962 @@
+{
+  "il": "İstanbul",
+  "bolge": "Avrupa",
+  "plaka": 34,
+  "yarim_il": 2,
+  "level": "01",
+  "ilce_listesi": [
+    {
+      "id": 342100001,
+      "name": "Arnavutköy",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34275",
+        "34290"
+      ],
+      "coordinates": {
+        "lat": 41.248359,
+        "lon": 28.6553507
+      },
+      "bounds": {
+        "north": 41.408084,
+        "south": 41.088634,
+        "east": 28.8214361,
+        "west": 28.4892653
+      },
+      "osmId": 1766093,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Arnavutköy",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Arnavutkoy"
+      }
+    },
+    {
+      "id": 342100002,
+      "name": "Avcılar",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34310",
+        "34315",
+        "34320"
+      ],
+      "coordinates": {
+        "lat": 41.0375101,
+        "lon": 28.719514
+      },
+      "bounds": {
+        "north": 41.1060842,
+        "south": 40.968936,
+        "east": 28.7567678,
+        "west": 28.6822602
+      },
+      "osmId": 1766094,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Avcılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Avcilar"
+      }
+    },
+    {
+      "id": 342100003,
+      "name": "Bağcılar",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34200",
+        "34203",
+        "34204"
+      ],
+      "coordinates": {
+        "lat": 41.044987,
+        "lon": 28.840346850000003
+      },
+      "bounds": {
+        "north": 41.0724184,
+        "south": 41.0175556,
+        "east": 28.872744,
+        "west": 28.8079497
+      },
+      "osmId": 1766098,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Bağcılar",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Bagcilar"
+      }
+    },
+    {
+      "id": 342100004,
+      "name": "Bahçelievler",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34180",
+        "34186",
+        "34190"
+      ],
+      "coordinates": {
+        "lat": 41.00980895,
+        "lon": 28.84585875
+      },
+      "bounds": {
+        "north": 41.027953,
+        "south": 40.9916649,
+        "east": 28.8857606,
+        "west": 28.8059569
+      },
+      "osmId": 1766095,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Bahçelievler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Bahcelievler"
+      }
+    },
+    {
+      "id": 342100005,
+      "name": "Bakırköy",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34140",
+        "34142",
+        "34146"
+      ],
+      "coordinates": {
+        "lat": 40.9806081,
+        "lon": 28.834697
+      },
+      "bounds": {
+        "north": 41.0066949,
+        "south": 40.9545213,
+        "east": 28.895958,
+        "west": 28.773436
+      },
+      "osmId": 1766096,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Bakırköy",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Bakirkoy"
+      }
+    },
+    {
+      "id": 342100006,
+      "name": "Başakşehir",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34480",
+        "34490",
+        "34494"
+      ],
+      "coordinates": {
+        "lat": 41.10364585,
+        "lon": 28.7451
+      },
+      "bounds": {
+        "north": 41.1494396,
+        "south": 41.0578521,
+        "east": 28.8506049,
+        "west": 28.6395951
+      },
+      "osmId": 1766099,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Başakşehir",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Basaksehir"
+      }
+    },
+    {
+      "id": 342100007,
+      "name": "Bayrampaşa",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34030",
+        "34035"
+      ],
+      "coordinates": {
+        "lat": 41.05076595,
+        "lon": 28.901229049999998
+      },
+      "bounds": {
+        "north": 41.0771924,
+        "south": 41.0243395,
+        "east": 28.9240058,
+        "west": 28.8784523
+      },
+      "osmId": 1766097,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Bayrampaşa",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Bayrampasa"
+      }
+    },
+    {
+      "id": 342100008,
+      "name": "Beşiktaş",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34357",
+        "34365",
+        "34349"
+      ],
+      "coordinates": {
+        "lat": 41.07172095,
+        "lon": 29.02351525
+      },
+      "bounds": {
+        "north": 41.1066686,
+        "south": 41.0367733,
+        "east": 29.0551191,
+        "west": 28.9919114
+      },
+      "osmId": 1765893,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Beşiktaş",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Besiktas"
+      }
+    },
+    {
+      "id": 342100009,
+      "name": "Beylikdüzü",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34520",
+        "34524",
+        "34528"
+      ],
+      "coordinates": {
+        "lat": 40.98787205,
+        "lon": 28.64748935
+      },
+      "bounds": {
+        "north": 41.0185797,
+        "south": 40.9571644,
+        "east": 28.7001289,
+        "west": 28.5948498
+      },
+      "osmId": 1766100,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Beylikdüzü",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Beylikduzu"
+      }
+    },
+    {
+      "id": 342100010,
+      "name": "Beyoğlu",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34420",
+        "34425",
+        "34430"
+      ],
+      "coordinates": {
+        "lat": 41.04275665,
+        "lon": 28.9673981
+      },
+      "bounds": {
+        "north": 41.064434,
+        "south": 41.0210793,
+        "east": 28.9957843,
+        "west": 28.9390119
+      },
+      "osmId": 1765892,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Beyoğlu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Beyoglu"
+      }
+    },
+    {
+      "id": 342100011,
+      "name": "Büyükçekmece",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34500",
+        "34530"
+      ],
+      "coordinates": {
+        "lat": 41.0570632,
+        "lon": 28.512504649999997
+      },
+      "bounds": {
+        "north": 41.1296274,
+        "south": 40.984499,
+        "east": 28.6340208,
+        "west": 28.3909885
+      },
+      "osmId": 1275387,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Büyükçekmece",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Buyukcekmece"
+      }
+    },
+    {
+      "id": 342100012,
+      "name": "Çatalca",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34540",
+        "34545"
+      ],
+      "coordinates": {
+        "lat": 41.3195451,
+        "lon": 28.33307475
+      },
+      "bounds": {
+        "north": 41.5833019,
+        "south": 41.0557883,
+        "east": 28.5952014,
+        "west": 28.0709481
+      },
+      "osmId": 1275389,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Çatalca",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Catalca"
+      }
+    },
+    {
+      "id": 342100013,
+      "name": "Esenler",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34220",
+        "34230"
+      ],
+      "coordinates": {
+        "lat": 41.0626218,
+        "lon": 28.86721365
+      },
+      "bounds": {
+        "north": 41.1079173,
+        "south": 41.0173263,
+        "east": 28.9006289,
+        "west": 28.8337984
+      },
+      "osmId": 1766101,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Esenler",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Esenler"
+      }
+    },
+    {
+      "id": 342100014,
+      "name": "Esenyurt",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34510",
+        "34513",
+        "34517"
+      ],
+      "coordinates": {
+        "lat": 41.048905950000005,
+        "lon": 28.661221349999998
+      },
+      "bounds": {
+        "north": 41.0981109,
+        "south": 40.999701,
+        "east": 28.7018986,
+        "west": 28.6205441
+      },
+      "osmId": 1766102,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Esenyurt",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Esenyurt"
+      }
+    },
+    {
+      "id": 342100015,
+      "name": "Eyüpsultan",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34050",
+        "34055"
+      ],
+      "coordinates": {
+        "lat": 41.1652482,
+        "lon": 28.87319415
+      },
+      "bounds": {
+        "north": 41.3061113,
+        "south": 41.0243851,
+        "east": 28.9763653,
+        "west": 28.770023
+      },
+      "osmId": 1766103,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Eyüpsultan",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Eyupsultan"
+      }
+    },
+    {
+      "id": 342100016,
+      "name": "Fatih",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34120",
+        "34122",
+        "34126"
+      ],
+      "coordinates": {
+        "lat": 41.01424635,
+        "lon": 28.9539952
+      },
+      "bounds": {
+        "north": 41.04086,
+        "south": 40.9876327,
+        "east": 28.9881084,
+        "west": 28.919882
+      },
+      "osmId": 1766104,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Fatih",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Fatih"
+      }
+    },
+    {
+      "id": 342100017,
+      "name": "Gaziosmanpaşa",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34245",
+        "34250"
+      ],
+      "coordinates": {
+        "lat": 41.072934000000004,
+        "lon": 28.9067904
+      },
+      "bounds": {
+        "north": 41.0942843,
+        "south": 41.0515837,
+        "east": 28.9392181,
+        "west": 28.8743627
+      },
+      "osmId": 1766105,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Gaziosmanpaşa",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Gaziosmanpasa"
+      }
+    },
+    {
+      "id": 342100018,
+      "name": "Güngören",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34164",
+        "34165"
+      ],
+      "coordinates": {
+        "lat": 41.02008975,
+        "lon": 28.8807926
+      },
+      "bounds": {
+        "north": 41.0384821,
+        "south": 41.0016974,
+        "east": 28.9025818,
+        "west": 28.8590034
+      },
+      "osmId": 1766106,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Güngören",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Gungoren"
+      }
+    },
+    {
+      "id": 342100019,
+      "name": "Kağıthane",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34406",
+        "34410"
+      ],
+      "coordinates": {
+        "lat": 41.07981785,
+        "lon": 28.97789555
+      },
+      "bounds": {
+        "north": 41.1067132,
+        "south": 41.0529225,
+        "east": 29.0077123,
+        "west": 28.9480788
+      },
+      "osmId": 1765894,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Kağıthane",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Kagithane"
+      }
+    },
+    {
+      "id": 342100020,
+      "name": "Küçükçekmece",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34300",
+        "34303",
+        "34307"
+      ],
+      "coordinates": {
+        "lat": 41.02057695,
+        "lon": 28.77956725
+      },
+      "bounds": {
+        "north": 41.0641013,
+        "south": 40.9770526,
+        "east": 28.8193482,
+        "west": 28.7397863
+      },
+      "osmId": 7786498,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Küçükçekmece",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Kucukcekmece"
+      }
+    },
+    {
+      "id": 342100021,
+      "name": "Sarıyer",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34398",
+        "34450",
+        "34460"
+      ],
+      "coordinates": {
+        "lat": 41.1716366,
+        "lon": 29.0244134
+      },
+      "bounds": {
+        "north": 41.2621786,
+        "south": 41.0810946,
+        "east": 29.1162566,
+        "west": 28.9325702
+      },
+      "osmId": 1765895,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Sarıyer",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Sariyer"
+      }
+    },
+    {
+      "id": 342100022,
+      "name": "Silivri",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34570",
+        "34580"
+      ],
+      "coordinates": {
+        "lat": 41.1979217,
+        "lon": 28.1831501
+      },
+      "bounds": {
+        "north": 41.3637851,
+        "south": 41.0320583,
+        "east": 28.3954521,
+        "west": 27.9708481
+      },
+      "osmId": 1275379,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Silivri",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Silivri"
+      }
+    },
+    {
+      "id": 342100023,
+      "name": "Şişli",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34371",
+        "34373",
+        "34380"
+      ],
+      "coordinates": {
+        "lat": 41.06647005000001,
+        "lon": 28.9888725
+      },
+      "bounds": {
+        "north": 41.093746,
+        "south": 41.0391941,
+        "east": 29.0160356,
+        "west": 28.9617094
+      },
+      "osmId": 1765896,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Şişli",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Sisli"
+      }
+    },
+    {
+      "id": 342100024,
+      "name": "Sultangazi",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34260",
+        "34265"
+      ],
+      "coordinates": {
+        "lat": 41.1207048,
+        "lon": 28.872761150000002
+      },
+      "bounds": {
+        "north": 41.1598111,
+        "south": 41.0815985,
+        "east": 28.9216741,
+        "west": 28.8238482
+      },
+      "osmId": 1766108,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Sultangazi",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Sultangazi"
+      }
+    },
+    {
+      "id": 342100025,
+      "name": "Zeytinburnu",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Avrupa",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": [
+        "34025",
+        "34020"
+      ],
+      "coordinates": {
+        "lat": 41.00519835,
+        "lon": 28.909605300000003
+      },
+      "bounds": {
+        "north": 41.0325469,
+        "south": 40.9778498,
+        "east": 28.929299,
+        "west": 28.8899116
+      },
+      "osmId": 1766109,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Zeytinburnu",
+        "available_languages": [
+          "tr",
+          "en"
+        ],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Zeytinburnu"
+      }
+    }
+  ],
+  "metadata": {
+    "total_count": 25,
+    "first_id": 342100001,
+    "last_id": 342100025,
+    "next_id": 342100026,
+    "parent_il_id": 34000000,
+    "parent_il_name": "İstanbul",
+    "bolge": "Avrupa Yakası",
+    "yarim_il": 2,
+    "plaka": 34,
+    "level": "01",
+    "created_date": "2025-07-11",
+    "updated_date": "2025-07-12",
+    "version": "3.1",
+    "coding_system": "Yeni hiyerarşik sistem ile güncellendi",
+    "osm_integration": "Koordinatlar OSM data ile entegre edildi",
+    "posta_kodlari_eklendi": "Gerçek posta kodları eklendi"
+  },
+  "meta": {
+    "version": "3.2",
+    "last_updated": "2025-07-13",
+    "language_support": {
+      "enabled": true,
+      "default_language": "tr",
+      "supported_languages": [
+        "tr",
+        "en",
+        "ar",
+        "ku",
+        "hy",
+        "el"
+      ],
+      "future_languages": [
+        "bg",
+        "sr",
+        "fa",
+        "de",
+        "fr",
+        "ru"
+      ],
+      "language_priority": [
+        "tr",
+        "en",
+        "ar",
+        "ku",
+        "hy",
+        "el",
+        "bg",
+        "sr"
+      ]
+    }
+  },
+  "multilingual_config": {
+    "auto_extract_from_osm": true,
+    "fallback_language": "en",
+    "search_languages": [
+      "tr",
+      "en"
+    ],
+    "display_preferences": {
+      "primary": "tr",
+      "secondary": "en",
+      "show_original_if_no_translation": true
+    }
+  }
+}

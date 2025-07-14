@@ -1,0 +1,455 @@
+{
+  "il": "İstanbul",
+  "bolge": "Anadolu",
+  "plaka": 34,
+  "yarim_il": 1,
+  "level": "01",
+  "ilce_listesi": [
+    {
+      "id": 341100001,
+      "name": "Adalar",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34970"],
+      "coordinates": {
+        "lat": 40.86626225,
+        "lon": 29.05869455
+      },
+      "bounds": {
+        "north": 40.9144917,
+        "south": 40.8180328,
+        "east": 29.1482181,
+        "west": 28.969171
+      },
+      "osmId": 963209,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Adalar",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Islands"
+      }
+    },
+    {
+      "id": 341100002,
+      "name": "Ataşehir",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34746", "34750", "34758"],
+      "coordinates": {
+        "lat": 40.984276949999995,
+        "lon": 29.137899249999997
+      },
+      "bounds": {
+        "north": 41.0094893,
+        "south": 40.9590646,
+        "east": 29.2035055,
+        "west": 29.072293
+      },
+      "osmId": 1276672,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Ataşehir",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Atasehir"
+      }
+    },
+    {
+      "id": 341100003,
+      "name": "Beykoz",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34800", "34805", "34810"],
+      "coordinates": {
+        "lat": 41.138810750000005,
+        "lon": 29.2148246
+      },
+      "bounds": {
+        "north": 41.2353335,
+        "south": 41.042288,
+        "east": 29.3654018,
+        "west": 29.0642474
+      },
+      "osmId": 1276910,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Beykoz",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Beykoz"
+      }
+    },
+    {
+      "id": 341100004,
+      "name": "Çekmeköy",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34782", "34788"],
+      "coordinates": {
+        "lat": 41.0727841,
+        "lon": 29.27013605
+      },
+      "bounds": {
+        "north": 41.1325384,
+        "south": 41.0130298,
+        "east": 29.4020295,
+        "west": 29.1382426
+      },
+      "osmId": 1276034,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Çekmeköy",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Cekmekoy"
+      }
+    },
+    {
+      "id": 341100005,
+      "name": "Kadıköy",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34710", "34714", "34718"],
+      "coordinates": {
+        "lat": 40.98113335,
+        "lon": 29.0630386
+      },
+      "bounds": {
+        "north": 41.0123011,
+        "south": 40.9499656,
+        "east": 29.1112349,
+        "west": 29.0148423
+      },
+      "osmId": 1276548,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Kadıköy",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Kadikoy"
+      }
+    },
+    {
+      "id": 341100006,
+      "name": "Kartal",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34860", "34862", "34865"],
+      "coordinates": {
+        "lat": 40.91555425,
+        "lon": 29.196721150000002
+      },
+      "bounds": {
+        "north": 40.9529633,
+        "south": 40.8781452,
+        "east": 29.2551653,
+        "west": 29.138277
+      },
+      "osmId": 1276013,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Kartal",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Kartal"
+      }
+    },
+    {
+      "id": 341100007,
+      "name": "Maltepe",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34840", "34843", "34846"],
+      "coordinates": {
+        "lat": 40.94395845,
+        "lon": 29.15555695
+      },
+      "bounds": {
+        "north": 40.9812459,
+        "south": 40.906671,
+        "east": 29.2162998,
+        "west": 29.0948141
+      },
+      "osmId": 1276407,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Maltepe",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Maltepe"
+      }
+    },
+    {
+      "id": 341100008,
+      "name": "Pendik",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34890", "34893", "34896"],
+      "coordinates": {
+        "lat": 40.95719575,
+        "lon": 29.361071850000002
+      },
+      "bounds": {
+        "north": 41.0605633,
+        "south": 40.8538282,
+        "east": 29.5067024,
+        "west": 29.2154413
+      },
+      "osmId": 1276011,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Pendik",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Pendik"
+      }
+    },
+    {
+      "id": 341100009,
+      "name": "Sancaktepe",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34885", "34887"],
+      "coordinates": {
+        "lat": 40.9993864,
+        "lon": 29.2747852
+      },
+      "bounds": {
+        "north": 41.0527344,
+        "south": 40.9460384,
+        "east": 29.3643724,
+        "west": 29.185198
+      },
+      "osmId": 1276014,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Sancaktepe",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Sancaktepe"
+      }
+    },
+    {
+      "id": 341100010,
+      "name": "Sultanbeyli",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34920"],
+      "coordinates": {
+        "lat": 40.9683085,
+        "lon": 29.278333
+      },
+      "bounds": {
+        "north": 41.0048762,
+        "south": 40.9317408,
+        "east": 29.3119449,
+        "west": 29.2447211
+      },
+      "osmId": 1276012,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Sultanbeyli",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Sultanbeyli"
+      }
+    },
+    {
+      "id": 341100011,
+      "name": "Şile",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34980", "34990"],
+      "coordinates": {
+        "lat": 41.08918735,
+        "lon": 29.6399345
+      },
+      "bounds": {
+        "north": 41.2166263,
+        "south": 40.9617484,
+        "east": 29.9588048,
+        "west": 29.3210642
+      },
+      "osmId": 1275310,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Şile",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Sile"
+      }
+    },
+    {
+      "id": 341100012,
+      "name": "Tuzla",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34940", "34944", "34947"],
+      "coordinates": {
+        "lat": 40.891667999999996,
+        "lon": 29.355697550000002
+      },
+      "bounds": {
+        "north": 40.9806318,
+        "south": 40.8027042,
+        "east": 29.456816,
+        "west": 29.2545791
+      },
+      "osmId": 1276010,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Tuzla",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Tuzla"
+      }
+    },
+    {
+      "id": 341100013,
+      "name": "Ümraniye",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34760", "34764", "34768"],
+      "coordinates": {
+        "lat": 41.02720975,
+        "lon": 29.1375092
+      },
+      "bounds": {
+        "north": 41.0654468,
+        "south": 40.9889727,
+        "east": 29.1946641,
+        "west": 29.0803543
+      },
+      "osmId": 1276890,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Ümraniye",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Umraniye"
+      }
+    },
+    {
+      "id": 341100014,
+      "name": "Üsküdar",
+      "parent_id": 34000000,
+      "status": "aktif",
+      "bolgesi": "Anadolu",
+      "plaka": 34,
+      "level": "01",
+      "posta_kodlari": ["34662", "34664", "34672"],
+      "coordinates": {
+        "lat": 41.03520795,
+        "lon": 29.0490257
+      },
+      "bounds": {
+        "north": 41.0778919,
+        "south": 40.992524,
+        "east": 29.0916883,
+        "west": 29.0063631
+      },
+      "osmId": 1276889,
+      "updated_with_osm": true,
+      "multilingual": {
+        "tr": "Üsküdar",
+        "available_languages": ["tr", "en"],
+        "osm_extracted": false,
+        "manual_verified": false,
+        "en": "Uskudar"
+      }
+    }
+  ],
+  "metadata": {
+    "total_count": 14,
+    "first_id": 341100001,
+    "last_id": 341100014,
+    "next_id": 341100015,
+    "parent_il_id": 34000000,
+    "parent_il_name": "İstanbul",
+    "bolge": "Anadolu Yakası",
+    "yarim_il": 1,
+    "plaka": 34,
+    "level": "01",
+    "created_date": "2025-07-11",
+    "updated_date": "2025-07-13",
+    "version": "3.2",
+    "coding_system": "Yeni hiyerarşik sistem ile güncellendi",
+    "osm_integration": "Koordinatlar OSM data ile entegre edildi",
+    "posta_kodlari_eklendi": "Gerçek posta kodları eklendi",
+    "multilingual_support": "Çok dilli destek eklendi"
+  },
+  "meta": {
+    "version": "3.2",
+    "last_updated": "2025-07-13",
+    "language_support": {
+      "enabled": true,
+      "default_language": "tr",
+      "supported_languages": ["tr", "en", "ar", "ku", "hy", "el"],
+      "future_languages": ["bg", "sr", "fa", "de", "fr", "ru"],
+      "language_priority": ["tr", "en", "ar", "ku", "hy", "el", "bg", "sr"]
+    }
+  },
+  "multilingual_config": {
+    "auto_extract_from_osm": true,
+    "fallback_language": "en",
+    "search_languages": ["tr", "en"],
+    "display_preferences": {
+      "primary": "tr",
+      "secondary": "en",
+      "show_original_if_no_translation": true
+    }
+  }
+} 
