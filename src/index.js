@@ -319,6 +319,91 @@ app.get('/api/stats', async (req, res) => {
   }
 });
 
+// Google Streets endpoint'i - Google'dan çekilen cadde/sokak verileri
+app.get('/api/google-streets', async (req, res) => {
+  try {
+    const { city, district, search, limit = 50 } = req.query;
+    
+    let query = `
+      SELECT id, city_name, district_name, street_name, full_address,
+             latitude, longitude, place_id, street_type, postal_code,
+             created_at
+      FROM google_streets
+      WHERE 1=1
+    `;
+    
+    const params = [];
+    let paramIndex = 1;
+    
+    if (city) {
+      query += ` AND city_name ILIKE $${paramIndex}`;
+      params.push(`%${city}%`);
+      paramIndex++;
+    }
+    
+    if (district) {
+      query += ` AND district_name ILIKE $${paramIndex}`;
+      params.push(`%${district}%`);
+      paramIndex++;
+    }
+    
+    if (search) {
+      query += ` AND (street_name ILIKE $${paramIndex} OR full_address ILIKE $${paramIndex})`;
+      params.push(`%${search}%`);
+      paramIndex++;
+    }
+    
+    query += ` ORDER BY city_name, district_name, street_name LIMIT $${paramIndex}`;
+    params.push(parseInt(limit));
+    
+    const result = await pool.query(query, params);
+    
+    res.json({
+      success: true,
+      data: result.rows,
+      count: result.rows.length,
+      filters: { city, district, search, limit }
+    });
+    
+  } catch (error) {
+    console.error('Google streets arama hatası:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Google streets arama hatası'
+    });
+  }
+});
+
+// Google Streets istatistikleri
+app.get('/api/google-streets/stats', async (req, res) => {
+  try {
+    const statsQuery = `
+      SELECT 
+        COUNT(*) as total_streets,
+        COUNT(DISTINCT city_name) as total_cities,
+        COUNT(DISTINCT district_name) as total_districts,
+        COUNT(DISTINCT CONCAT(city_name, district_name)) as total_city_districts,
+        MIN(created_at) as first_import,
+        MAX(created_at) as last_import
+      FROM google_streets
+    `;
+    
+    const result = await pool.query(statsQuery);
+    
+    res.json({
+      success: true,
+      stats: result.rows[0]
+    });
+    
+  } catch (error) {
+    console.error('Google streets istatistik hatası:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Google streets istatistik hatası'
+    });
+  }
+});
+
 // Cities endpoint - Şehirler listesi
 app.get('/api/cities', async (req, res) => {
   try {
